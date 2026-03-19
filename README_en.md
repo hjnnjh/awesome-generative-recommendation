@@ -4,12 +4,12 @@
 
 A curated collection of papers on generative recommendation systems, covering semantic IDs, end-to-end generative retrieval, LLM-based recommendation, and industrial deployments.
 
-![Papers](https://img.shields.io/badge/Papers-161-blue)
+![Papers](https://img.shields.io/badge/Papers-191-blue)
 ![Last Updated](https://img.shields.io/badge/Updated-2026--3--19-green)
 
 ## Table of Contents
 
-- [GRs](#grs) (144)
+- [GRs](#grs) (174)
 - [SIDs](#sids) (17)
 
 ## GRs
@@ -20,14 +20,15 @@ A curated collection of papers on generative recommendation systems, covering se
 | 2026 | OneMall: One Model, More Scenarios -- End-to-End Generative Recommender Family at Kuaishou E-Commerce | Kun Zhang; Jingming Zhang; Wei Cheng; Yansong Chen... | [PDF](papers/GRs/2026_OneMall-One-Model,-More-Scenarios-End-to-End-Generative-Recommender-Family.pdf) | local |
 | 2026 | OpenOneRec Technical Report | Guorui Zhou; Honghui Bao; Jiaming Huang; Jiaxin De... | [PDF](papers/GRs/2026_OpenOneRec-Technical-Report.pdf) | local |
 | 2026 | PROMISE: Process Reward Models Unlock Test-Time Scaling Laws in Generative Recommendations | Chengcheng Guo; Kuo Cai; Yu Zhou; Qiang Luo; Ruimi... | [PDF](papers/GRs/2026_PROMISE-Process-Reward-Models-Unlock-Test-Time-Scaling-Laws-in-Generative.pdf) | local |
-| 2026 | Differentiable Semantic ID for Generative Recommendation | Junchen Fu, Xuri Ge, Alexandros Karatzoglou, Ioann... | [arXiv](https://arxiv.org/abs/2601.19711) | [arxiv](http://arxiv.org/abs/2601.19711v1) |
-| 2026 | DOS: Dual-Flow Orthogonal Semantic IDs for Recommendation in Meituan | Junwei Yin, Senjie Kou, Changhao Li, Shuli Wang, X... | [arXiv](https://arxiv.org/abs/2602.04460) | [arxiv](http://arxiv.org/abs/2602.04460v1) |
-| 2026 | FusID: Modality-Fused Semantic IDs for Generative Music Recommendation | Haven Kim, Yupeng Hou, Julian McAuley | [arXiv](https://arxiv.org/abs/2601.08764) | [arxiv](http://arxiv.org/abs/2601.08764v1) |
-| 2026 | Variable-Length Semantic IDs for Recommender Systems | Kirill Khrylchenko | [arXiv](https://arxiv.org/abs/2602.16375) | [arxiv](http://arxiv.org/abs/2602.16375v1) |
+| 2026 | Differentiable Semantic ID for Generative Recommendation | Junchen Fu, Xuri Ge, Alexandros Karatzoglou, Ioann... | [PDF](papers/GRs/2026_Differentiable-Semantic-ID-for-Generative-Recommendation.pdf) | [arxiv](http://arxiv.org/abs/2601.19711v1) |
+| 2026 | DOS: Dual-Flow Orthogonal Semantic IDs for Recommendation in Meituan | Junwei Yin, Senjie Kou, Changhao Li, Shuli Wang, X... | [PDF](papers/GRs/2026_DOS-Dual-Flow-Orthogonal-Semantic-IDs-for-Recommendation-in-Meituan.pdf) | [arxiv](http://arxiv.org/abs/2602.04460v1) |
+| 2026 | FusID: Modality-Fused Semantic IDs for Generative Music Recommendation | Haven Kim, Yupeng Hou, Julian McAuley | [PDF](papers/GRs/2026_FusID-Modality-Fused-Semantic-IDs-for-Generative-Music-Recommendation.pdf) | [arxiv](http://arxiv.org/abs/2601.08764v1) |
+| 2026 | Variable-Length Semantic IDs for Recommender Systems | Kirill Khrylchenko | [PDF](papers/GRs/2026_Variable-Length-Semantic-IDs-for-Recommender-Systems.pdf) | [arxiv](http://arxiv.org/abs/2602.16375v1) |
 | 2026 | OneMall: One Architecture, More Scenarios -- End-to-End Generative Recommender Family at Kuaishou E-Commerce | Kun Zhang, Jingming Zhang, Wei Cheng, Yansong Chen... | [PDF](papers/GRs/2026_OneMall-One-Architecture,-More-Scenarios-End-to-End-Generative-Recommender.pdf) | [openalex](http://arxiv.org/abs/2601.21770) |
 | 2026 | OneMall: One Architecture, More Scenarios -- End-to-End Generative Recommender Family at Kuaishou E-Commerce | Kun Zhang, Jingming Zhang, Wei Cheng, Yansong Chen... | [PDF](papers/GRs/2026_OneMall-One-Architecture,-More-Scenarios-End-to-End-Generative-Recommender.pdf) | [openalex](https://doi.org/10.48550/arxiv.2601.21770) |
-| 2026 | PIT: A Dynamic Personalized Item Tokenizer for End-to-End Generative Recommendation | Huanjie Wang, Xinchen Luo, Honghui Bao, Zhang Zixi... | [arXiv](https://arxiv.org/abs/2602.08530) | [arxiv](http://arxiv.org/abs/2602.08530v1) |
-| 2026 | UniGRec: Unified Generative Recommendation with Soft Identifiers for End-to-End Optimization | Jialei Li, Yang Zhang, Yimeng Bai, Shuai Zhu, Ziqi... | [arXiv](https://arxiv.org/abs/2601.17438) | [arxiv](http://arxiv.org/abs/2601.17438v1) |
+| 2026 | PIT: A Dynamic Personalized Item Tokenizer for End-to-End Generative Recommendation | Huanjie Wang, Xinchen Luo, Honghui Bao, Zhang Zixi... | [PDF](papers/GRs/2026_PIT-A-Dynamic-Personalized-Item-Tokenizer-for-End-to-End-Generative.pdf) | [arxiv](http://arxiv.org/abs/2602.08530v1) |
+| 2026 | UniGRec: Unified Generative Recommendation with Soft Identifiers for End-to-End Optimization | Jialei Li, Yang Zhang, Yimeng Bai, Shuai Zhu, Ziqi... | [PDF](papers/GRs/2026_UniGRec-Unified-Generative-Recommendation-with-Soft-Identifiers-for-End-to.pdf) | [arxiv](http://arxiv.org/abs/2601.17438v1) |
+| 2026 | When Text-as-Vision Meets Semantic IDs in Generative Recommendation: An Empirical Study | Shutong Qiao, Wei Yuan, Tong Chen, Xiangyu Zhao, Q... | [arXiv](https://arxiv.org/abs/2601.14697) | [arxiv](http://arxiv.org/abs/2601.14697v1) |
 | 2025 | GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models | Zhen Yang; Haitao Lin; Jiawei xue; Ziji Zhang | [PDF](papers/GRs/2025_GR-LLMs-Recent-Advances-in-Generative-Recommendation-Based-on-Large.pdf) | local |
 | 2025 | A Survey on Generative Recommendation: Data, Model, and Tasks | Min Hou; Le Wu; Yuxin Liao; Yonghui Yang; Zhen Zha... | [PDF](papers/GRs/2025_A-Survey-on-Generative-Recommendation-Data,-Model,-and-Tasks.pdf) | local |
 | 2025 | A Survey of Generative Recommendation from a Tri-Decoupled Perspective：Tokenization, Architecture, and Optimization |  | [PDF](papers/GRs/2025_A-Survey-of-Generative-Recommendation-from-a-Tri-Decoupled-Perspective.pdf) | local |
@@ -44,19 +45,19 @@ A curated collection of papers on generative recommendation systems, covering se
 | 2025 | MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation | Jinfeng Xu, Zheyu Chen, Shuo Yang, Jinze Li, Hewei... |  | [openalex](https://doi.org/10.1609/aaai.v39i12.33408) |
 | 2025 | Generative Next POI Recommendation with Semantic ID | Dongsheng Wang, Yuxi Huang, Shen Gao, Yifan Wang, ... | [PDF](papers/GRs/2025_Generative-Next-POI-Recommendation-with-Semantic-ID.pdf) | [arxiv](http://arxiv.org/abs/2506.01375v2) |
 | 2025 | Semantic IDs for Joint Generative Search and Recommendation | Gustavo Penha, Edoardo D'Amico, Marco De Nadai, En... | [PDF](papers/SIDs/2025_Semantic-IDs-for-Joint-Generative-Search-and-Recommendation.pdf) | [arxiv](http://arxiv.org/abs/2508.10478v1) |
-| 2025 | Generating Long Semantic IDs in Parallel for Recommendation | Yupeng Hou, Jiacheng Li, Ashley Shin, Jinsung Jeon... | [arXiv](https://arxiv.org/abs/2506.05781) | [arxiv](http://arxiv.org/abs/2506.05781v1) |
-| 2025 | Unified Semantic and ID Representation Learning for Deep Recommenders | Guanyu Lin, Zhigang Hua, Tao Feng, Shuang Yang, Bo... | [arXiv](https://arxiv.org/abs/2502.16474) | [arxiv](http://arxiv.org/abs/2502.16474v1) |
-| 2025 | Generative Recommendation with Semantic IDs: A Practitioner's Handbook | Clark Mingxuan Ju, Liam Collins, Leonardo Neves, B... | [arXiv](https://arxiv.org/abs/2507.22224) | [arxiv](http://arxiv.org/abs/2507.22224v1) |
+| 2025 | Generating Long Semantic IDs in Parallel for Recommendation | Yupeng Hou, Jiacheng Li, Ashley Shin, Jinsung Jeon... | [PDF](papers/GRs/2025_Generating-Long-Semantic-IDs-in-Parallel-for-Recommendation.pdf) | [arxiv](http://arxiv.org/abs/2506.05781v1) |
+| 2025 | Unified Semantic and ID Representation Learning for Deep Recommenders | Guanyu Lin, Zhigang Hua, Tao Feng, Shuang Yang, Bo... | [PDF](papers/GRs/2025_Unified-Semantic-and-ID-Representation-Learning-for-Deep-Recommenders.pdf) | [arxiv](http://arxiv.org/abs/2502.16474v1) |
+| 2025 | Generative Recommendation with Semantic IDs: A Practitioner's Handbook | Clark Mingxuan Ju, Liam Collins, Leonardo Neves, B... | [PDF](papers/GRs/2025_Generative-Recommendation-with-Semantic-IDs-A-Practitioner's-Handbook.pdf) | [arxiv](http://arxiv.org/abs/2507.22224v1) |
 | 2025 | Enhancing Embedding Representation Stability in Recommendation Systems with Semantic ID | Carolina Zheng, Minhui Huang, Dmitrii Pedchenko, K... | [PDF](papers/SIDs/2025_Enhancing-Embedding-Representation-Stability-in-Recommendation-Systems.pdf) | [arxiv](http://arxiv.org/abs/2504.02137v1) |
-| 2025 | LLaDA-Rec: Discrete Diffusion for Parallel Semantic ID Generation in Generative Recommendation | Teng Shi, Chenglei Shen, Weijie Yu, Shen Nie, Chon... | [arXiv](https://arxiv.org/abs/2511.06254) | [arxiv](http://arxiv.org/abs/2511.06254v1) |
-| 2025 | HiD-VAE: Interpretable Generative Recommendation via Hierarchical and Disentangled Semantic IDs | Dengzhao Fang, Jingtong Gao, Chengcheng Zhu, Yu Li... | [arXiv](https://arxiv.org/abs/2508.04618) | [arxiv](http://arxiv.org/abs/2508.04618v2) |
+| 2025 | LLaDA-Rec: Discrete Diffusion for Parallel Semantic ID Generation in Generative Recommendation | Teng Shi, Chenglei Shen, Weijie Yu, Shen Nie, Chon... | [PDF](papers/GRs/2025_LLaDA-Rec-Discrete-Diffusion-for-Parallel-Semantic-ID-Generation-in.pdf) | [arxiv](http://arxiv.org/abs/2511.06254v1) |
+| 2025 | HiD-VAE: Interpretable Generative Recommendation via Hierarchical and Disentangled Semantic IDs | Dengzhao Fang, Jingtong Gao, Chengcheng Zhu, Yu Li... | [PDF](papers/GRs/2025_HiD-VAE-Interpretable-Generative-Recommendation-via-Hierarchical-and.pdf) | [arxiv](http://arxiv.org/abs/2508.04618v2) |
 | 2025 | Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation | Shijie Wang, Wenqi Fan, Yue Feng, Lin Shanru, Xiny... |  | [openalex](https://doi.org/10.18653/v1/2025.acl-long.1317) |
 | 2025 | A Federated Framework for LLM-based Recommendation | Jujia Zhao, Wenjie Wang, C. Xu, See-Kiong Ng, Tat‐... |  | [openalex](https://doi.org/10.18653/v1/2025.findings-naacl.155) |
 | 2025 | SPRec: Self-Play to Debias LLM-based Recommendation | Chongming Gao, Renqiang Chen, Shuai Yuan, Kexin Hu... |  | [openalex](https://doi.org/10.1145/3696410.3714524) |
-| 2025 | Uncertainty Quantification and Decomposition for LLM-based Recommendation | Wonbin Kweon, Sanghwan Jang, SeongKu Kang, Hwanjo ... |  | [openalex](https://doi.org/10.1145/3696410.3714601) |
-| 2025 | Revealing Potential Biases in LLM-Based Recommender Systems in the Cold Start Setting | Alexandre Andre, Gauthier Roy, Eva Dyer, Kai Wang | [arXiv](https://arxiv.org/abs/2508.20401) | [arxiv](http://arxiv.org/abs/2508.20401v2) |
-| 2025 | CARE: Contextual Adaptation of Recommenders for LLM-based Conversational Recommendation | Chuang Li, Yang Deng, Hengchang Hu, See-Kiong Ng, ... | [arXiv](https://arxiv.org/abs/2508.13889) | [arxiv](http://arxiv.org/abs/2508.13889v1) |
-| 2025 | Uncertainty Quantification and Decomposition for LLM-based Recommendation | Wonbin Kweon, Sanghwan Jang, SeongKu Kang, Hwanjo ... | [arXiv](https://arxiv.org/abs/2501.17630) | [arxiv](http://arxiv.org/abs/2501.17630v2) |
+| 2025 | Uncertainty Quantification and Decomposition for LLM-based Recommendation | Wonbin Kweon, Sanghwan Jang, SeongKu Kang, Hwanjo ... | [PDF](papers/GRs/2025_Uncertainty-Quantification-and-Decomposition-for-LLM-based-Recommendation.pdf) | [openalex](https://doi.org/10.1145/3696410.3714601) |
+| 2025 | Revealing Potential Biases in LLM-Based Recommender Systems in the Cold Start Setting | Alexandre Andre, Gauthier Roy, Eva Dyer, Kai Wang | [PDF](papers/GRs/2025_Revealing-Potential-Biases-in-LLM-Based-Recommender-Systems-in-the-Cold.pdf) | [arxiv](http://arxiv.org/abs/2508.20401v2) |
+| 2025 | CARE: Contextual Adaptation of Recommenders for LLM-based Conversational Recommendation | Chuang Li, Yang Deng, Hengchang Hu, See-Kiong Ng, ... | [PDF](papers/GRs/2025_CARE-Contextual-Adaptation-of-Recommenders-for-LLM-based-Conversational.pdf) | [arxiv](http://arxiv.org/abs/2508.13889v1) |
+| 2025 | Uncertainty Quantification and Decomposition for LLM-based Recommendation | Wonbin Kweon, Sanghwan Jang, SeongKu Kang, Hwanjo ... | [PDF](papers/GRs/2025_Uncertainty-Quantification-and-Decomposition-for-LLM-based-Recommendation.pdf) | [arxiv](http://arxiv.org/abs/2501.17630v2) |
 | 2025 | Generative Recommender with End-to-End Learnable Item Tokenization | Enze Liu, Bowen Zheng, Cheng Ling, Lantao Hu, Han ... |  | [openalex](https://doi.org/10.1145/3726302.3729989) |
 | 2025 | DimeRec: A Unified Framework for Enhanced Sequential Recommendation via Generative Diffusion Models | Wuchao Li, Rui Huang, Haijun Zhao, Chi Liu, Kai Zh... |  | [openalex](https://doi.org/10.1145/3701551.3703555) |
 | 2025 | Adaptive User Dynamic Interest Guidance for Generative Sequential Recommendation | Kai Zhu, Jing Li, Jia Wu, Yue He, Jun Chang et al. |  | [openalex](https://doi.org/10.1145/3726302.3729888) |
@@ -69,6 +70,17 @@ A curated collection of papers on generative recommendation systems, covering se
 | 2025 | From Matching to Generation: A Survey on Generative Information Retrieval | Xiaoxi Li, Jiajie Jin, Yujia Zhou, Yuyao Zhang, Pe... |  | [openalex](https://doi.org/10.1145/3722552) |
 | 2025 | Toward Agentic AI: Generative Information Retrieval Inspired Intelligent Communications and Networking | Ruichen Zhang, Shunpu Tang, Yinqiu Liu, Dusit Niya... |  | [openalex](https://doi.org/10.1109/mcom.001.2500073) |
 | 2025 | Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval | Kidist Amde Mekonnen, Yubao Tang, Maarten de Rijke | [arXiv](https://arxiv.org/abs/2504.05181) | [arxiv](http://arxiv.org/abs/2504.05181v2) |
+| 2025 | TokenRec: Learning to Tokenize ID for LLM-Based Generative Recommendations | Haohao Qu, Wenqi Fan, Zihuai Zhao, Qing Li |  | [openalex](https://doi.org/10.1109/tkde.2025.3599265) |
+| 2025 | Replication and Exploration of Generative Retrieval over Dynamic Corpora | Zhen Zhang, Xinyu Ma, Weiwei Sun, Pengjie Ren, Zhu... | [arXiv](https://arxiv.org/abs/2504.17519) | [arxiv](http://arxiv.org/abs/2504.17519v1) |
+| 2025 | Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation | Haofeng Huang, Ling Gai | [arXiv](https://arxiv.org/abs/2512.02474) | [arxiv](http://arxiv.org/abs/2512.02474v2) |
+| 2025 | Semantic IDs for Music Recommendation | M. Jeffrey Mei, Florian Henkel, Samuel E. Sandberg... | [arXiv](https://arxiv.org/abs/2507.18800) | [arxiv](http://arxiv.org/abs/2507.18800v1) |
+| 2025 | From ID-based to ID-free: Rethinking ID Effectiveness in Multimodal Collaborative Filtering Recommendation | Guohao Li, Li Jing, Jia Wu, Xuefei Li, Kai Zhu et ... | [arXiv](https://arxiv.org/abs/2507.05715) | [arxiv](http://arxiv.org/abs/2507.05715v2) |
+| 2025 | GANPrompt: Improving LLM-Based Recommendations with GAN-Enhanced Diversity Prompts | Xinyu Li, Chuang Zhao, Hongke Zhao, Likang Wu, Min... |  | [openalex](https://doi.org/10.1145/3769428) |
+| 2025 | Empowering Recommendations: Survey of LLM-Based Recommendation Systems | Rishav Kumar, Tuli Dey, Soma Das |  | [openalex](https://doi.org/10.1109/iementech65115.2025.10959591) |
+| 2025 | Preserving Privacy and Utility in LLM-Based Product Recommendations | Tina Khezresmaeilzadeh, Jiang Zhang, Dimitrios And... | [arXiv](https://arxiv.org/abs/2505.00951) | [arxiv](http://arxiv.org/abs/2505.00951v1) |
+| 2025 | LLM-as-a-Judge: Rapid Evaluation of Legal Document Recommendation for Retrieval-Augmented Generation | Anu Pradhan, Alexandra Ortan, Apurv Verma, Madhava... | [arXiv](https://arxiv.org/abs/2509.12382) | [arxiv](http://arxiv.org/abs/2509.12382v1) |
+| 2025 | Unconditional Diffusion for Generative Sequential Recommendation | Yimeng Bai, Yang Zhang, Sihao Ding, Shaohui Ruan, ... | [arXiv](https://arxiv.org/abs/2507.06121) | [arxiv](http://arxiv.org/abs/2507.06121v1) |
+| 2025 | Toward Agentic AI: Generative Information Retrieval Inspired Intelligent Communications and Networking | Ruichen Zhang, Shunpu Tang, Yinqiu Liu, Dusit Niya... |  | [openalex](http://arxiv.org/abs/2502.16866) |
 | 2024 | HLLM  Enhancing Sequential Recommendations via Hierarchical Large Language Models for Item and User Modeling |  | [PDF](papers/GRs/2024_HLLM-Enhancing-Sequential-Recommendations-via-Hierarchical-Large-Language.pdf) | local |
 | 2024 | Adapting LLMs by Integrating Collaborative Semantics for Recommendation |  | [PDF](papers/GRs/2024_Adapting-LLMs-by-Integrating-Collaborative-Semantics-for-Recommendation.pdf) | local |
 | 2024 | GenRec: Large Language Model for Generative Recommendation | Jianchao Ji, Zelong Li, Shuyuan Xu, Wenyue Hua, Yi... |  | [openalex](https://doi.org/10.1007/978-3-031-56063-7_42) |
@@ -93,15 +105,15 @@ A curated collection of papers on generative recommendation systems, covering se
 | 2024 | Data-efficient Fine-tuning for LLM-based Recommendation | Xinyu Lin, Wenjie Wang, Yongqi Li, Shuo Yang, Fuli... |  | [openalex](http://arxiv.org/abs/2401.17197) |
 | 2024 | Enhancing Job Recommendation through LLM-Based Generative Adversarial Networks | Yingpeng Du, Di Luo, Rui Yan, Xiaopei Wang, Hongzh... |  | [openalex](https://doi.org/10.1609/aaai.v38i8.28678) |
 | 2024 | Secure and Scalable LLM-Based Recommendation Systems: An MLOps and Security by Design | Adi Saputra, Erma Suryani, Nur Aini Rakhmawati |  | [openalex](https://doi.org/10.1109/isct62336.2024.10791207) |
-| 2024 | Generative Recommender with End-to-End Learnable Item Tokenization | Enze Liu, Bowen Zheng, Ling Cheng, Lantao Hu, Han ... |  | [openalex](http://arxiv.org/abs/2409.05546) |
-| 2024 | Generative Recommender with End-to-End Learnable Item Tokenization | Enze Liu, Bowen Zheng, Cheng Ling, Lantao Hu, Han ... | [arXiv](https://arxiv.org/abs/2409.05546) | [arxiv](http://arxiv.org/abs/2409.05546v3) |
+| 2024 | Generative Recommender with End-to-End Learnable Item Tokenization | Enze Liu, Bowen Zheng, Ling Cheng, Lantao Hu, Han ... | [PDF](papers/GRs/2024_Generative-Recommender-with-End-to-End-Learnable-Item-Tokenization.pdf) | [openalex](http://arxiv.org/abs/2409.05546) |
+| 2024 | Generative Recommender with End-to-End Learnable Item Tokenization | Enze Liu, Bowen Zheng, Cheng Ling, Lantao Hu, Han ... | [PDF](papers/GRs/2024_Generative-Recommender-with-End-to-End-Learnable-Item-Tokenization.pdf) | [arxiv](http://arxiv.org/abs/2409.05546v3) |
 | 2024 | CALRec: Contrastive Alignment of Generative LLMs for Sequential Recommendation | Yaoyiran Li, X. Y. Zhai, Moustafa Alzantot, Keyi Y... |  | [openalex](https://doi.org/10.1145/3640457.3688121) |
-| 2024 | Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations | Jiaqi Zhai, Lucy Liao, Xing Liu, Yueming Wang, Rui... |  | [openalex](http://arxiv.org/abs/2402.17152) |
+| 2024 | Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations | Jiaqi Zhai, Lucy Liao, Xing Liu, Yueming Wang, Rui... | [PDF](papers/GRs/2024_Actions-Speak-Louder-than-Words-Trillion-Parameter-Sequential-Transducers.pdf) | [openalex](http://arxiv.org/abs/2402.17152) |
 | 2024 | Meta-Optimized Joint Generative and Contrastive Learning for Sequential Recommendation | Yongjing Hao, Pengpeng Zhao, Junhua Fang, Jianfeng... |  | [openalex](https://doi.org/10.1109/icde60146.2024.00060) |
 | 2024 | DimeRec: A Unified Framework for Enhanced Sequential Recommendation via Generative Diffusion Models | Weihua Li, Rui Huang, Haijun Zhao, Chi Liu, Kai Zh... |  | [openalex](http://arxiv.org/abs/2408.12153) |
-| 2024 | Generative Diffusion Models for Sequential Recommendations | Sharare Zolghadr, Ole Winther, Paul Jeha | [arXiv](https://arxiv.org/abs/2410.19429) | [arxiv](http://arxiv.org/abs/2410.19429v1) |
-| 2024 | Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations | Jiaqi Zhai, Lucy Liao, Xing Liu, Yueming Wang, Rui... | [arXiv](https://arxiv.org/abs/2402.17152) | [arxiv](http://arxiv.org/abs/2402.17152v3) |
-| 2024 | GenRec: Generative Sequential Recommendation with Large Language Models | Panfeng Cao, Pietro Lio | [arXiv](https://arxiv.org/abs/2407.21191) | [arxiv](http://arxiv.org/abs/2407.21191v2) |
+| 2024 | Generative Diffusion Models for Sequential Recommendations | Sharare Zolghadr, Ole Winther, Paul Jeha | [PDF](papers/GRs/2024_Generative-Diffusion-Models-for-Sequential-Recommendations.pdf) | [arxiv](http://arxiv.org/abs/2410.19429v1) |
+| 2024 | Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations | Jiaqi Zhai, Lucy Liao, Xing Liu, Yueming Wang, Rui... | [PDF](papers/GRs/2024_Actions-Speak-Louder-than-Words-Trillion-Parameter-Sequential-Transducers.pdf) | [arxiv](http://arxiv.org/abs/2402.17152v3) |
+| 2024 | GenRec: Generative Sequential Recommendation with Large Language Models | Panfeng Cao, Pietro Lio | [PDF](papers/GRs/2024_GenRec-Generative-Sequential-Recommendation-with-Large-Language-Models.pdf) | [arxiv](http://arxiv.org/abs/2407.21191v2) |
 | 2024 | Learnable Item Tokenization for Generative Recommendation | Wenjie Wang, Honghui Bao, Xinyu Lin, Jizhi Zhang, ... |  | [openalex](http://arxiv.org/abs/2405.07314) |
 | 2024 | Enhancing Sequential Recommendation via LLM-based Semantic Embedding Learning | Jun Hu, Wenwen Xia, Xiaolu Zhang, Chilin Fu, Weich... |  | [openalex](https://doi.org/10.1145/3589335.3648307) |
 | 2024 | Enhancing Item Tokenization for Generative Recommendation through Self-Improvement | Runjin Chen, Mingxuan Ju, Ngoc Bui, Dimosthenis An... | [arXiv](https://arxiv.org/abs/2412.17171) | [arxiv](http://arxiv.org/abs/2412.17171v1) |
@@ -117,6 +129,13 @@ A curated collection of papers on generative recommendation systems, covering se
 | 2024 | Evaluating Generative Ad Hoc Information Retrieval | Lukas Gienapp, Harrisen Scells, Niklas Deckers, Ja... |  | [openalex](https://doi.org/10.1145/3626772.3657849) |
 | 2024 | Recent Advances in Generative Information Retrieval | Yubao Tang, Ruqing Zhang, Weiwei Sun, Jiafeng Guo,... |  | [openalex](https://doi.org/10.1145/3589335.3641239) |
 | 2024 | Generative Information Retrieval Evaluation | Marwah Alaofi, Negar Arabzadeh, Charles L. A. Clar... | [arXiv](https://arxiv.org/abs/2404.08137) | [arxiv](http://arxiv.org/abs/2404.08137v3) |
+| 2024 | Planning Ahead in Generative Retrieval: Guiding Autoregressive Generation through Simultaneous Decoding | Hansi Zeng, Chen Luo, Hamed Zamani |  | [openalex](https://doi.org/10.1145/3626772.3657746) |
+| 2024 | AlignRec: Aligning and Training in Multimodal Recommendations | Yifan Liu, Kangning Zhang, Xiangyuan Ren, Yanhua H... |  | [openalex](https://doi.org/10.1145/3627673.3679626) |
+| 2024 | RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation | Xiaohan Yu, Li Zhang, Xin Zhao, Yue Wang, Zhongrui... |  | [openalex](http://arxiv.org/abs/2402.04527) |
+| 2024 | Federated Recommender System Based on Diffusion Augmentation and Guided Denoising | Yicheng Di, Hongjian Shi, Xiaoming Wang, Ruhui Ma,... |  | [openalex](https://doi.org/10.1145/3688570) |
+| 2024 | Autoregressive Generation Strategies for Top-K Sequential Recommendations | Anna Volodkevich, Danil Gusak, Anton Klenitskiy, A... | [arXiv](https://arxiv.org/abs/2409.17730) | [arxiv](http://arxiv.org/abs/2409.17730v1) |
+| 2024 | Applying generative AI with retrieval augmented generation to summarize and extract key clinical information from electronic health records | Mohammad Alkhalaf, Ping Yu, Mengyang Yin, Chao Den... |  | [openalex](https://doi.org/10.1016/j.jbi.2024.104662) |
+| 2024 | Interactions with Generative Information Retrieval Systems | Mohammad Aliannejadi, Jacek Gwizdka, Hamed Zamani | [PDF](papers/GRs/2024_Interactions-with-Generative-Information-Retrieval-Systems.pdf) | [openalex](http://arxiv.org/abs/2407.11605) |
 | 2023 | Generative Recommendation: Towards Next-generation Recommender Paradigm | Wenjie Wang, Xinyu Lin, Fuli Feng, Xiangnan He, Ta... |  | [openalex](http://arxiv.org/abs/2304.03516) |
 | 2023 | Future research recommendations for transforming higher education with generative AI | Thomas K. F. Chiu |  | [openalex](https://doi.org/10.1016/j.caeai.2023.100197) |
 | 2023 | Large Language Models for Generative Recommendation: A Survey and Visionary Discussions | Lei Li, Yongfeng Zhang, Dugang Liu, Li Chen |  | [openalex](http://arxiv.org/abs/2309.01157) |
@@ -131,34 +150,45 @@ A curated collection of papers on generative recommendation systems, covering se
 | 2023 | Generative AI for Software Metadata: Overview of the Information Retrieval in Software Engineering Track at FIRE 2023 | Srijoni Majumdar, Soumen Paul, Debjyoti Paul, Ayan... | [PDF](papers/GRs/2023_Generative-AI-for-Software-Metadata-Overview-of-the-Information-Retrieval.pdf) | [arxiv](http://arxiv.org/abs/2311.03374v1) |
 | 2023 | A Tale of Two Graphs: Freezing and Denoising Graph Structures for Multimodal Recommendation | Xin Zhou, Zhiqi Shen |  | [openalex](https://doi.org/10.1145/3581783.3611943) |
 | 2023 | How to Index Item IDs for Recommendation Foundation Models | Wenyue Hua, Shuyuan Xu, Yingqiang Ge, Yongfeng Zha... |  | [openalex](https://doi.org/10.1145/3624918.3625339) |
-| 2023 | Better Generalization with Semantic IDs: A Case Study in Ranking for Recommendations | Anima Singh, Trung Vu, Nikhil Mehta, Raghunandan K... | [arXiv](https://arxiv.org/abs/2306.08121) | [arxiv](http://arxiv.org/abs/2306.08121v2) |
+| 2023 | Better Generalization with Semantic IDs: A Case Study in Ranking for Recommendations | Anima Singh, Trung Vu, Nikhil Mehta, Raghunandan K... | [PDF](papers/GRs/2023_Better-Generalization-with-Semantic-IDs-A-Case-Study-in-Ranking-for.pdf) | [arxiv](http://arxiv.org/abs/2306.08121v2) |
 | 2023 | Prompt Distillation for Efficient LLM-based Recommendation | Lei Li, Yongfeng Zhang, Li Chen |  | [openalex](https://doi.org/10.1145/3583780.3615017) |
 | 2023 | Examination of Ethical Principles for LLM-Based Recommendations in Conversational AI | Junseong Bang, Byung‐Tak Lee, Pangun Park |  | [openalex](https://doi.org/10.1109/platcon60102.2023.10255221) |
 | 2023 | Graph Transformer for Recommendation | C. Li, Lianghao Xia, Xubin Ren, Yaowen Ye, Yong Xu... |  | [openalex](https://doi.org/10.1145/3539618.3591723) |
 | 2023 | Enhancing sequential recommendation with contrastive Generative Adversarial Network | Shuang Ni, Wei Zhou, Junhao Wen, Linfeng Hu, Shuto... |  | [openalex](https://doi.org/10.1016/j.ipm.2023.103331) |
-| 2023 | Generative Sequential Recommendation with GPTRec | Aleksandr V. Petrov, Craig Macdonald |  | [openalex](http://arxiv.org/abs/2306.11114) |
+| 2023 | Generative Sequential Recommendation with GPTRec | Aleksandr V. Petrov, Craig Macdonald | [PDF](papers/GRs/2023_Generative-Sequential-Recommendation-with-GPTRec.pdf) | [openalex](http://arxiv.org/abs/2306.11114) |
 | 2023 | IDNP: Interest Dynamics Modeling Using Generative Neural Processes for Sequential Recommendation | Jing Du, Zesheng Ye, Bin Guo, Zhiwen Yu, Lina Yao |  | [openalex](https://doi.org/10.1145/3539597.3570373) |
-| 2023 | Generative Sequential Recommendation with GPTRec | Aleksandr V. Petrov, Craig Macdonald | [arXiv](https://arxiv.org/abs/2306.11114) | [arxiv](http://arxiv.org/abs/2306.11114v1) |
+| 2023 | Generative Sequential Recommendation with GPTRec | Aleksandr V. Petrov, Craig Macdonald | [PDF](papers/GRs/2023_Generative-Sequential-Recommendation-with-GPTRec.pdf) | [arxiv](http://arxiv.org/abs/2306.11114v1) |
 | 2023 | Generative Information Retrieval | Marc Najork |  | [openalex](https://doi.org/10.1145/3539618.3591871) |
 | 2023 | Recent Advances in Generative Information Retrieval | Yubao Tang, Ruqing Zhang, Jiafeng Guo, Maarten de ... |  | [openalex](https://doi.org/10.1145/3624918.3629547) |
 | 2023 | Gen-IR@SIGIR 2023: The First Workshop on Generative Information Retrieval | G. F. Benedict, Ruqing Zhang, Donald Metzler |  | [openalex](https://doi.org/10.1145/3539618.3591923) |
 | 2023 | Scalable and Effective Generative Information Retrieval | Hansi Zeng, Chen Luo, Bowen Jin, Sheikh Muhammad S... |  | [openalex](http://arxiv.org/abs/2311.09134) |
+| 2023 | Enhancing Generative Retrieval with Reinforcement Learning from Relevance Feedback | Yujia Zhou, Zhicheng Dou, Ji-Rong Wen |  | [openalex](https://doi.org/10.18653/v1/2023.emnlp-main.768) |
+| 2023 | Nonparametric Decoding for Generative Retrieval | Hyunji Lee, Jaeyoung Kim, Hoyeon Chang, Hanseok Oh... |  | [openalex](https://doi.org/10.18653/v1/2023.findings-acl.801) |
+| 2023 | Attention-guided Multi-step Fusion: A Hierarchical Fusion Network for Multimodal Recommendation | Yan Zhou, Jie Guo, Hao Sun, Bin Song, F. Richard Y... |  | [openalex](https://doi.org/10.1145/3539618.3591950) |
+| 2023 | Large Language Models for Recommendation: Progresses and Future Directions | Keqin Bao, Jizhi Zhang, Yang Zhang, Wenjie Wang, F... |  | [openalex](https://doi.org/10.1145/3624918.3629550) |
+| 2023 | DiffuRec: A Diffusion Model for Sequential Recommendation | Zihao Li, Aixin Sun, Chenliang Li |  | [openalex](https://doi.org/10.1145/3631116) |
+| 2023 | Genetic Generative Information Retrieval | Hrishikesh Kulkarni, Zachary T. Young, Nazli Gohar... |  | [openalex](https://doi.org/10.1145/3573128.3609340) |
 | 2022 | CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks | Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Yiqun Liu... |  | [openalex](https://doi.org/10.1145/3511808.3557271) |
 | 2022 | M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems | Zeyu Cui, Jianxin Ma, Chang Zhou, Jingren Zhou, Ho... |  | [openalex](http://arxiv.org/abs/2205.08084) |
 | 2022 | Generative Adversarial Framework for Cold-Start Item Recommendation | Hao Chen, Zefan Wang, Feiran Huang, Xiao Huang, Yu... |  | [openalex](https://doi.org/10.1145/3477495.3531897) |
 | 2021 | Interpretable Deep Generative Recommendation Models | Huafeng Liu, Liping Jing, Jingxuan Wen, Pengyu Xu,... |  | [openalex](https://jmlr.org/papers/volume22/20-1098/20-1098.pdf) |
 | 2021 | SSRGAN: A Generative Adversarial Network for Streaming Sequential Recommendation | Yao Lv, Jiajie Xu, Rui Zhou, Junhua Fang, Chengfei... |  | [openalex](https://doi.org/10.1007/978-3-030-73200-4_3) |
+| 2021 | Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation | Zhe Xie, Chengxuan Liu, Yichi Zhang, Hongtao Lu, D... |  | [openalex](https://doi.org/10.1145/3442381.3449873) |
 | 2020 | Generative Ranking based Sequential Recommendation in Software Crowdsourcing | Weisong Sun, Xuefeng Yan, Arif Ali Khan |  | [openalex](https://doi.org/10.1145/3383219.3383279) |
 | 2020 | Sequential Recommendation with Self-Attentive Multi-Adversarial Network | Ruiyang Ren, Zhaoyang Liu, Yaliang Li, Wayne Xin Z... |  | [openalex](https://doi.org/10.1145/3397271.3401111) |
 | 2019 | A Simple Convolutional Generative Network for Next Item Recommendation | Fajie Yuan, Alexandros Karatzoglou, Ioannis Arapak... |  | [openalex](https://doi.org/10.1145/3289600.3290975) |
 | 2019 | Enhancing Collaborative Filtering with Generative Augmentation | Qinyong Wang, Hongzhi Yin, Hao Wang, Quoc Viet Hun... |  | [openalex](https://doi.org/10.1145/3292500.3330873) |
 | 2018 | Look, Imagine and Match: Improving Textual-Visual Cross-Modal Retrieval with Generative Models | Jiuxiang Gu, Jianfei Cai, Shafiq Joty, Li Niu, Gan... |  | [openalex](https://doi.org/10.1109/cvpr.2018.00750) |
 | 2018 | Binary Generative Adversarial Networks for Image Retrieval | Jingkuan Song, Tao He, Lianli Gao, Xing Xu, Alan H... |  | [openalex](https://doi.org/10.1609/aaai.v32i1.11276) |
+| 2018 | Generative Adversarial Network Based Heterogeneous Bibliographic Network Representation for Personalized Citation Recommendation | Xiaoyan Cai, Junwei Han, Libin Yang |  | [openalex](https://doi.org/10.1609/aaai.v32i1.12037) |
+| 2018 | Generative Adversarial User Model for Reinforcement Learning Based Recommendation System | Xinshi Chen, Shuang Li, Hui Li, Shaohua Jiang, Qi ... |  | [openalex](http://arxiv.org/abs/1812.10613) |
+| 2018 | Cycle-Consistent Deep Generative Hashing for Cross-Modal Retrieval | Lin Wu, Yang Wang, Ling Shao |  | [openalex](https://doi.org/10.1109/tip.2018.2878970) |
 | 2017 | Visually-Aware Fashion Recommendation and Design with Generative Image Models | Wang-Cheng Kang, Fang Chen, Zhaowen Wang, Julian M... |  | [openalex](https://doi.org/10.1109/icdm.2017.30) |
 | 2017 | Direct and generative retrieval of autobiographical memories: The roles of visual imagery and executive processes | Rachel J. Anderson, Stephen A. Dewhurst, Graham M.... |  | [openalex](https://doi.org/10.1016/j.concog.2017.02.010) |
 | 2011 | Routes to the past: Neural substrates of direct and generative autobiographical memory retrieval | Donna Rose Addis, Katie Knapp, Reece P. Roberts, D... |  | [openalex](https://doi.org/10.1016/j.neuroimage.2011.09.066) |
 | 2008 | A generative retrieval model for structured documents | Le Zhao, Jamie Callan |  | [openalex](https://doi.org/10.1145/1458082.1458236) |
 | 2007 | Total Recall: Automatic Query Expansion with a Generative Feature Model for Object Retrieval | Ondřej Chum, James Philbin, Josef Šivic, Michael I... |  | [openalex](https://doi.org/10.1109/iccv.2007.4408891) |
+| 2006 | Sentiment retrieval using generative models | Koji Eguchi, Victor Lavrenko |  | [openalex](https://doi.org/10.3115/1610075.1610124) |
 | None | 2024LREC-COLING_LLMs for Generative Recommendation：A Survey and Visionary Discussions |  | [PDF](papers/GRs/2024LREC-COLING_LLMs-for-Generative-Recommendation-A-Survey-and-Visionary.pdf) | local |
 
 ## SIDs
@@ -185,4 +215,4 @@ A curated collection of papers on generative recommendation systems, covering se
 
 ---
 
-> Auto-generated by [paper-repo-helper](https://github.com/hjnnjh). Last updated: 2026-03-19 14:56
+> Auto-generated by [paper-repo-helper](https://github.com/hjnnjh). Last updated: 2026-03-19 15:01
